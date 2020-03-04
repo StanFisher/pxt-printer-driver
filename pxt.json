@@ -12,8 +12,7 @@
         "ILine.ts",
         "ReasonCode.ts",
         "Printer.ts",
-        "Pen.ts",
-        "PenDirection.ts"
+        "Pen.ts"
     ],
     "testFiles": [
         "test.ts"

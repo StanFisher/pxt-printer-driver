@@ -7,11 +7,16 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "ICoordinate.ts",
+        "ILine.ts",
+        "ReasonCode.ts",
+        "Printer.ts",
+        "Pen.ts",
+        "PenDirection.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
-    "additionalFilePaths": []
+    "public": false
 }

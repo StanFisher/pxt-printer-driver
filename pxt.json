@@ -13,7 +13,8 @@
         "ReasonCode.ts",
         "Printer.ts",
         "Pen.ts",
-        "Error.ts"
+        "Error.ts",
+        "PaperFeed.ts"
     ],
     "testFiles": [
         "test.ts"

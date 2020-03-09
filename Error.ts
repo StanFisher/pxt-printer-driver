@@ -1,5 +1,7 @@
 class Error {
     public static raise(functionName: string, code: ReasonCode, message: string): void {
+        motors.stopAll();
+        
         brick.clearScreen();
         brick.setStatusLight(StatusLight.RedFlash);
 

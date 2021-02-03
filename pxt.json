@@ -1,6 +1,6 @@
 {
     "name": "pxt-printer-driver",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "",
     "dependencies": {
         "ev3": "*"
@@ -17,7 +17,7 @@
         "PaperFeed.ts",
         "PenState.ts",
         "Carriage.ts",
-        "Motor.ts"
+        "MotorHelper.ts"
     ],
     "testFiles": [
         "test.ts"

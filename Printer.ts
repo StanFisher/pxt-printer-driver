@@ -1,11 +1,15 @@
 class Printer {
-    private readonly MaxCoordinate: ICoordinate;
+    // private readonly MaxCoordinate: ICoordinate;
 
-    constructor() {
-        this.MaxCoordinate = { x: MaximumPenLocation, y: MaxPaperFeedLocation };
-    }
+    // private readonly pen: Pen;
 
-    public initialize(): void {
-        motors.resetAll();
-    }
+    // constructor() {
+    //     this.MaxCoordinate = { x: MaximumPenLocation, y: MaxPaperFeedLocation };
+
+    //     this.pen = new Pen();
+    // }
+
+    // public initialize(): void {
+    //     this.pen.initialize();
+    // }
 }

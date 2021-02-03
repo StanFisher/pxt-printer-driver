@@ -14,7 +14,10 @@
         "Printer.ts",
         "Pen.ts",
         "Error.ts",
-        "PaperFeed.ts"
+        "PaperFeed.ts",
+        "PenState.ts",
+        "Carriage.ts",
+        "Motor.ts"
     ],
     "testFiles": [
         "test.ts"
